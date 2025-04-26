@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title><?php echo $title?></title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" type="icon" href="/uploads/<?php echo $resultado_logo['file'];?>"/>
+  <link href="/uploads/<?php echo $resultado_logo['file'];?>" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="https://<?php echo $host;?>/app/layout/<?php echo $resultado_templete_i['templete'];?>/assets/css/style.css" rel="stylesheet">
+<?php echo base64_decode($resultado_sobre['adsense']);?>
+</head>
+
+<body>
+    
+    <?php 
+    if($validacao == 'ok'){ 
+        include('app/layout/'.$resultado_templete_i['templete'].'/user/blocos/menu.php');
+    } else {
+        include('app/layout/'.$resultado_templete_i['templete'].'/blocos/menu.php');
+    }
+    ?>
+    
+    
+    <?php include('app/helpers/user/cadastro/index.php');?>
+    
+   <br>
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Dados</h2>
+          <ol>
+            <li><a href="https://<?php echo $host;?>">Home</a></li>
+            <li>Home</li>
+          </ol>
+        </div>
+
+      </div>
+    </section>
+    
+    <br>
+    <div class="container">
+        <?php $object_item->AdicionarCategoria();?>
+        <form action="" class="form-horizontal" method="POST" enctype="multipart/form-data">
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-floating">
+                        <input type="text" class="form-control" name="titulo" placeholder="Título" required>
+                        <label for="subject">Título</label>
+                    </div>
+                </div>
+                <div class="col-12"><br></div>
+                <div class="col-12">
+                    <input type="file" class="form-control" name="imagem"/>
+                </div>
+                <div class="col-12"><br></div>
+                
+                <div class="col-4">
+                    <div class="form-floating">
+                        <div class="btn-group">
+                            <input type="radio" class="btn-check" name="destaque" id="option1" value="2" autocomplete="off" checked />
+                            <label class="btn btn-success" for="option1">Ativo</label>
+                                            
+                            <input type="radio" class="btn-check" name="destaque" id="option2" value="1" autocomplete="off"  />
+                            <label class="btn btn-success" for="option2">Inativo</label>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="col-12"><br></div>
+                <div class="col-4">
+                    <div class="form-floating">
+                        <button class="btn btn-primary rounded-pill py-3 px-5" name="btn_AddCategoria" type="submit">Cadastrar categoria</button>
+                    </div>
+                </div>
+                
+            </div>
+        </form>
+    </div>
+        
+    <?php include('app/layout/'.$resultado_templete_i['templete'].'/blocos/rodape.php');?>
+    
+
+</body>
+
+</html>

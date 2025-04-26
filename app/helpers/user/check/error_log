@@ -1,0 +1,215 @@
+[17-Sep-2022 00:57:26 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:26 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:26 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:26 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:26 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:27 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:27 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:27 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:28 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:28 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:57:28 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 4
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../app/db_configuracao/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 5
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../app/db_configuracao/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:08 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 5
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../app/db_configuracao/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 5
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../app/db_configuracao/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 5
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../app/db_configuracao/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 5
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(../../../app/db_configuracao/dbconfig.php): failed to open stream: No such file or directory in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  include(): Failed opening '../../../app/db_configuracao/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 1
+[17-Sep-2022 00:59:10 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/agenc355/blog.mayconbraga.com.br/app/helpers/user/check/index.php on line 5
+[08-Mar-2023 18:23:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[08-Mar-2023 18:24:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Apr-2023 15:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[26-Apr-2023 15:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 18
+[07-Aug-2023 17:16:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[07-Aug-2023 17:16:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[07-Aug-2023 17:16:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/user/check/index.php on line 9
+[26-Sep-2023 00:15:33 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Sep-2023 00:15:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Sep-2023 00:15:33 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Sep-2023 00:15:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[20-Oct-2023 22:34:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[20-Oct-2023 22:34:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[20-Oct-2023 22:34:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[20-Oct-2023 22:34:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[21-Oct-2023 10:35:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[21-Oct-2023 10:35:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[21-Oct-2023 10:35:00 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[21-Oct-2023 10:35:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[05-Nov-2023 04:38:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[05-Nov-2023 04:38:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[05-Nov-2023 04:38:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[05-Nov-2023 04:38:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[05-Nov-2023 17:16:24 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[05-Nov-2023 17:16:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[05-Nov-2023 17:16:24 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[05-Nov-2023 17:16:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[04-Dec-2023 16:49:08 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:09 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:09 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:09 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:10 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:11 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:12 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:12 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:15 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:17 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:17 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:17 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:18 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:19 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:19 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:20 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[04-Dec-2023 16:49:43 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[04-Dec-2023 16:49:43 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[04-Dec-2023 16:49:43 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[04-Dec-2023 16:49:43 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[04-Dec-2023 16:49:43 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[04-Dec-2023 16:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[20-Dec-2023 22:34:54 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[20-Dec-2023 22:34:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[20-Dec-2023 22:34:54 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[20-Dec-2023 22:34:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:19:40 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:19:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 9
+[26-Jan-2024 18:20:38 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:38 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:38 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:38 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:38 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:39 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:40 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:40 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:40 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:40 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:41 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:42 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18
+[26-Jan-2024 18:20:42 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 3
+[26-Jan-2024 18:20:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kifomicom/public_html/app/helpers/user/check/index.php on line 18

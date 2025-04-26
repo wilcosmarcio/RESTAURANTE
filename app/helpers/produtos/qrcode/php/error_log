@@ -1,0 +1,5 @@
+[26-Jan-2023 19:57:50 America/Fortaleza] PHP Fatal error:  QRcode : Data do not exist. in /home1/agenc355/adm.plataformafly.com.br/qrcode/php/qr_img.php on line 88
+[26-Jan-2023 20:00:17 America/Fortaleza] PHP Fatal error:  QRcode : Data do not exist. in /home1/agenc355/adm.plataformafly.com.br/qrcode/php/qr_img.php on line 88
+[01-Mar-2023 01:23:28 America/Fortaleza] PHP Fatal error:  QRcode : Data do not exist. in /home1/agenc355/adm.plataformafly.com.br/qrcode/php/qr_img.php on line 88
+[01-Mar-2023 12:56:57 UTC] PHP Fatal error:  QRcode : Data do not exist. in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/produtos/qrcode/php/qr_img.php on line 88
+[01-Mar-2023 13:05:20 UTC] PHP Fatal error:  QRcode : Data do not exist. in /home/erpfly/dev.erp.plataformafly.com.br/app/helpers/produtos/qrcode/php/qr_img.php on line 88
